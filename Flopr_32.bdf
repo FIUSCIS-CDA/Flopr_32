@@ -86,7 +86,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 24 576 120)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst" (rect 8 75 24 92)(font "Intel Clear" ))
+	(text "bit31" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -122,7 +122,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 128 576 224)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst33" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit30" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -158,7 +158,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 232 576 328)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst34" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit29" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -194,7 +194,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 336 576 432)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst35" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit28" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -230,7 +230,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 440 576 536)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst36" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit27" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -266,7 +266,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 544 576 640)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst37" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit26" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -302,7 +302,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 648 576 744)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst38" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit25" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -338,7 +338,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 752 576 848)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst39" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit24" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -374,7 +374,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 856 576 952)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst40" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit23" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -410,7 +410,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 960 576 1056)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst41" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit22" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -446,7 +446,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1064 576 1160)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst42" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit21" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -482,7 +482,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1168 576 1264)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst43" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit20" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -518,7 +518,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1272 576 1368)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst44" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit19" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -554,43 +554,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1376 576 1472)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst45" (rect 8 75 36 92)(font "Intel Clear" ))
-	(port
-		(pt 0 32)
-		(input)
-		(text "reset" (rect 0 0 29 19)(font "Intel Clear" (font_size 8)))
-		(text "reset" (rect 21 27 50 46)(font "Intel Clear" (font_size 8)))
-		(line (pt 0 32)(pt 16 32))
-	)
-	(port
-		(pt 0 48)
-		(input)
-		(text "clk" (rect 0 0 16 19)(font "Intel Clear" (font_size 8)))
-		(text "clk" (rect 21 43 37 62)(font "Intel Clear" (font_size 8)))
-		(line (pt 0 48)(pt 16 48))
-	)
-	(port
-		(pt 0 64)
-		(input)
-		(text "D" (rect 0 0 9 19)(font "Intel Clear" (font_size 8)))
-		(text "D" (rect 21 59 30 78)(font "Intel Clear" (font_size 8)))
-		(line (pt 0 64)(pt 16 64))
-	)
-	(port
-		(pt 96 32)
-		(output)
-		(text "Q" (rect 0 0 9 19)(font "Intel Clear" (font_size 8)))
-		(text "Q" (rect 66 27 75 46)(font "Intel Clear" (font_size 8)))
-		(line (pt 96 32)(pt 80 32))
-	)
-	(drawing
-		(rectangle (rect 16 16 80 80))
-	)
-)
-(symbol
-	(rect 480 1584 576 1680)
-	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst46" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit18" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -626,7 +590,43 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1480 576 1576)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst47" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit17" (rect 8 75 31 92)(font "Intel Clear" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "reset" (rect 0 0 29 19)(font "Intel Clear" (font_size 8)))
+		(text "reset" (rect 21 27 50 46)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 32)(pt 16 32))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "clk" (rect 0 0 16 19)(font "Intel Clear" (font_size 8)))
+		(text "clk" (rect 21 43 37 62)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 48)(pt 16 48))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "D" (rect 0 0 9 19)(font "Intel Clear" (font_size 8)))
+		(text "D" (rect 21 59 30 78)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 64)(pt 16 64))
+	)
+	(port
+		(pt 96 32)
+		(output)
+		(text "Q" (rect 0 0 9 19)(font "Intel Clear" (font_size 8)))
+		(text "Q" (rect 66 27 75 46)(font "Intel Clear" (font_size 8)))
+		(line (pt 96 32)(pt 80 32))
+	)
+	(drawing
+		(rectangle (rect 16 16 80 80))
+	)
+)
+(symbol
+	(rect 480 1584 576 1680)
+	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
+	(text "bit16" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -662,7 +662,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1688 576 1784)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst48" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit15" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -698,7 +698,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1792 576 1888)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst49" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit14" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -734,7 +734,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1904 576 2000)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst50" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit13" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -770,7 +770,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2000 576 2096)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst51" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit12" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -806,7 +806,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2104 576 2200)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst52" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit11" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -842,7 +842,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2208 576 2304)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst53" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit10" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -878,7 +878,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2312 576 2408)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst54" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit09" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -914,7 +914,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2416 576 2512)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst55" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit08" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -950,7 +950,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2520 576 2616)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst56" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit07" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -986,7 +986,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2624 576 2720)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst57" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit06" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1022,7 +1022,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2728 576 2824)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst58" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit05" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1058,7 +1058,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2832 576 2928)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst59" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit04" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1094,7 +1094,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2936 576 3032)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst60" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit03" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1130,7 +1130,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 3040 576 3136)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst61" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit02" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1166,7 +1166,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 3144 576 3240)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst62" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit01" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1202,7 +1202,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 3256 576 3352)
 	(text "Flopr" (rect 5 0 35 19)(font "Intel Clear" (font_size 8)))
-	(text "inst63" (rect 8 75 36 92)(font "Intel Clear" ))
+	(text "bit00" (rect 8 75 31 92)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
